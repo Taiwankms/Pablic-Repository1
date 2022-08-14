@@ -2,4 +2,8 @@
 0101010111
 010111
 {{adfdfv}}
+<<<<<<< HEAD
 fdghfdk
+=======
+5656464757
+>>>>>>> newtestbranch
